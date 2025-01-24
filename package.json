@@ -2,12 +2,11 @@
   "name": "todoapplication",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Zuhair0000.github.io/todoapplication",
+  "homepage": "https://todos-application-react-js.netlify.app",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^7.1.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
